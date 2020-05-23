@@ -19,7 +19,8 @@
                 android:layout_marginTop="@dimen/button_top_10dp"
                 android:text="@string/kinematics"
                 android:layout_width="match_parent"
-                android:layout_height="wrap_content"/>
+                android:layout_height="wrap_content"
+                android:background="@drawable/btn_bg_for"/>
 
             <Button
                 android:id="@+id/dynamics"
@@ -28,7 +29,8 @@
                 android:layout_marginTop="@dimen/button_top_10dp"
                 android:text="@string/dynamics"
                 android:layout_width="match_parent"
-                android:layout_height="wrap_content"/>
+                android:layout_height="wrap_content"
+                android:background="@drawable/btn_bg_for"/>
 
             <Button
                 android:id="@+id/statics"
@@ -37,7 +39,8 @@
                 android:layout_marginTop="@dimen/button_top_10dp"
                 android:text="@string/statics"
                 android:layout_width="match_parent"
-                android:layout_height="wrap_content"/>
+                android:layout_height="wrap_content"
+                android:background="@drawable/btn_bg_for"/>
 
             <Button
                 android:id="@+id/hydrostatics"
@@ -46,7 +49,8 @@
                 android:layout_marginTop="@dimen/button_top_10dp"
                 android:text="@string/hydrostatics"
                 android:layout_width="match_parent"
-                android:layout_height="wrap_content"/>
+                android:layout_height="wrap_content"
+                android:background="@drawable/btn_bg_for"/>
 
             <Button
                 android:id="@+id/pulse"
@@ -55,7 +59,8 @@
                 android:layout_marginTop="@dimen/button_top_10dp"
                 android:text="@string/pulse"
                 android:layout_width="match_parent"
-                android:layout_height="wrap_content"/>
+                android:layout_height="wrap_content"
+                android:background="@drawable/btn_bg_for"/>
 
             <Button
                 android:id="@+id/energy"
@@ -64,7 +69,8 @@
                 android:layout_marginTop="@dimen/button_top_10dp"
                 android:text="@string/energy"
                 android:layout_width="match_parent"
-                android:layout_height="wrap_content"/>
+                android:layout_height="wrap_content"
+                android:background="@drawable/btn_bg_for"/>
 
             <Button
                 android:id="@+id/molecularPhysics"
@@ -73,7 +79,8 @@
                 android:layout_marginTop="@dimen/button_top_10dp"
                 android:text="@string/molecularPhysics"
                 android:layout_width="match_parent"
-                android:layout_height="wrap_content"/>
+                android:layout_height="wrap_content"
+                android:background="@drawable/btn_bg_for"/>
 
             <Button
                 android:id="@+id/thermodynamics"
@@ -82,7 +89,8 @@
                 android:layout_marginTop="@dimen/button_top_10dp"
                 android:text="@string/thermodynamics"
                 android:layout_width="match_parent"
-                android:layout_height="wrap_content"/>
+                android:layout_height="wrap_content"
+                android:background="@drawable/btn_bg_for"/>
 
             <Button
                 android:id="@+id/electrostatics"
@@ -91,7 +99,8 @@
                 android:layout_marginTop="@dimen/button_top_10dp"
                 android:text="@string/electrostatics"
                 android:layout_width="match_parent"
-                android:layout_height="wrap_content"/>
+                android:layout_height="wrap_content"
+                android:background="@drawable/btn_bg_for"/>
 
             <Button
                 android:id="@+id/electricity"
@@ -100,7 +109,8 @@
                 android:layout_marginTop="@dimen/button_top_10dp"
                 android:text="@string/electricity"
                 android:layout_width="match_parent"
-                android:layout_height="wrap_content"/>
+                android:layout_height="wrap_content"
+                android:background="@drawable/btn_bg_for"/>
 
             <Button
                 android:id="@+id/magnetism"
@@ -109,7 +119,8 @@
                 android:layout_marginTop="@dimen/button_top_10dp"
                 android:text="@string/magnetism"
                 android:layout_width="match_parent"
-                android:layout_height="wrap_content"/>
+                android:layout_height="wrap_content"
+                android:background="@drawable/btn_bg_for"/>
 
             <Button
                 android:id="@+id/vibrations"
@@ -118,7 +129,8 @@
                 android:layout_marginTop="@dimen/button_top_10dp"
                 android:text="@string/vibrations"
                 android:layout_width="match_parent"
-                android:layout_height="wrap_content"/>
+                android:layout_height="wrap_content"
+                android:background="@drawable/btn_bg_for"/>
 
             <Button
                 android:id="@+id/optics"
@@ -127,7 +139,8 @@
                 android:layout_marginTop="@dimen/button_top_10dp"
                 android:text="@string/optics"
                 android:layout_width="match_parent"
-                android:layout_height="wrap_content"/>
+                android:layout_height="wrap_content"
+                android:background="@drawable/btn_bg_for"/>
 
             <Button
                 android:id="@+id/atomicPhysics"
@@ -136,7 +149,8 @@
                 android:layout_marginTop="@dimen/button_top_10dp"
                 android:text="@string/atomicPhysics"
                 android:layout_width="match_parent"
-                android:layout_height="wrap_content"/>
+                android:layout_height="wrap_content"
+                android:background="@drawable/btn_bg_for"/>
 
             <Button
                 android:id="@+id/theoryOfRelativity"
@@ -145,7 +159,8 @@
                 android:layout_marginTop="@dimen/button_top_10dp"
                 android:text="@string/theoryOfRelativity"
                 android:layout_width="match_parent"
-                android:layout_height="wrap_content"/>
+                android:layout_height="wrap_content"
+                android:background="@drawable/btn_bg_for"/>
 
         </LinearLayout>
 
