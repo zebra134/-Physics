@@ -30,7 +30,7 @@
         android:layout_marginEnd="@dimen/button_side_20dp"
         android:background="@drawable/btn_bg_for"
         android:text="@string/formulas"
-        android:textColor="#000000"
+        android:textColor="#FFFFFF"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@id/theorems" />
