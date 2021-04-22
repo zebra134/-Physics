@@ -83,7 +83,7 @@ public class ShowLawsActivity extends AppCompatActivity {
         formulasList.setAdapter(adapter);
         formulasList.setLayoutManager(new LinearLayoutManager(this, RecyclerView.VERTICAL, false));
     }
-
+//    onDestroy
     @Override
     protected void onDestroy() {
         if (unbinder != null){

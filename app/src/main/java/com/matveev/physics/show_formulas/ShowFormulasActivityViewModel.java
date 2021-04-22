@@ -18,7 +18,7 @@ public class ShowFormulasActivityViewModel extends AndroidViewModel {
 
     private Repository repository;
     private MutableLiveData<List<Formula>> formulasBySectionList = new MutableLiveData<>();
-
+//    View
     public ShowFormulasActivityViewModel(@NonNull Application application, Repository repository) {
         super(application);
         this.repository = repository;

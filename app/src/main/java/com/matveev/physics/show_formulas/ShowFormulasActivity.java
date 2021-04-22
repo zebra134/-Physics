@@ -89,6 +89,7 @@ public class ShowFormulasActivity extends AppCompatActivity {
         }
         super.onDestroy();
     }
+//    getSection
 
     private String getSection(){
         Intent intent = getIntent();

@@ -18,7 +18,7 @@ public class ShowLawsActivityViewModel extends AndroidViewModel {
 
     private Repository repository;
     private MutableLiveData<List<LawsEntity>> lawsBySectionList = new MutableLiveData<>();
-
+// View
     public ShowLawsActivityViewModel(@NonNull Application application, Repository repository) {
         super(application);
         this.repository = repository;

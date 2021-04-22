@@ -79,6 +79,7 @@ public class FormulasSectionActivity extends AppCompatActivity implements View.O
         }
         super.onDestroy();
     }
+//  onClick
 
     @Override
     public void onClick(View v) {
