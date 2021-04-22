@@ -71,7 +71,7 @@ public class FormulasSectionActivity extends AppCompatActivity implements View.O
         atomicPhysics.setOnClickListener(this);
         theoryOfRelativity.setOnClickListener(this);
     }
-
+//  onDestroy
     @Override
     protected void onDestroy() {
         if (unbinder != null){

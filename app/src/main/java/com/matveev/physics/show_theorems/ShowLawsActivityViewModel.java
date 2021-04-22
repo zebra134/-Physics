@@ -12,6 +12,8 @@ import com.matveev.physics.repo.database.Entities.LawsEntity;
 
 import java.util.List;
 
+//    ShowActivity
+
 public class ShowLawsActivityViewModel extends AndroidViewModel {
 
     private Repository repository;

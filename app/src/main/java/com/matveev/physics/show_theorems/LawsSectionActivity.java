@@ -41,7 +41,7 @@ public class LawsSectionActivity extends AppCompatActivity implements View.OnCli
         optics.setOnClickListener(this);
         atomicPhysics.setOnClickListener(this);
     }
-
+//    onDestroy
     @Override
     protected void onDestroy() {
         if (unbinder != null){

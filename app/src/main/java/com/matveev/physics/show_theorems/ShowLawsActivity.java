@@ -49,6 +49,8 @@ public class ShowLawsActivity extends AppCompatActivity {
     private ViewModelFactory viewModelFactory;
     private LawsAdapter adapter;
 
+    //    Create
+
     @Override
     protected void onCreate(@Nullable Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
